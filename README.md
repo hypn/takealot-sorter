@@ -1,6 +1,8 @@
 # About
 A Chrome extension to sort Takealot search results by the number of reviews they have.
 
+Demo: https://imgur.com/a/xrq7dyf
+
 ## Usage
 1. clone the repo
 2. open `chrome://extensions/` in Chrome
@@ -11,3 +13,4 @@ A Chrome extension to sort Takealot search results by the number of reviews they
 
 ## Alteratively
 Copy the [inject.js](chrome-extension/inject.js) code into your developer tools console, on a Takealot search results page.
+
